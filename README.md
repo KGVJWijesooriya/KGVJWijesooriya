@@ -1,3 +1,4 @@
+<img align="center" alt="codings"  src="https://i.redd.it/t0o3oe05k9h71.gif">
 
 <h1 align="center">Hi 👋, I'm Vimukthi Jayasanka Wijesooriya</h1>
 <h3 align="center">undergraduate developer from Sri Lanka.</h3> 
