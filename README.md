@@ -18,17 +18,9 @@
 🌱 **Currently Learning:** Bachelor of Information and Communication Technology  
 📧 **Contact:** vimukthi200020@gmail.com  
 💻 **Focus:** Mobile Application Development  
-🎯 **Goal:** Creating innovative solutions through technologycenter">Hi 👋, I'm Vimukthi Jayasanka Wijesooriya</h1>
-<!-- <h3 align="center">undergraduate Mobile App developer from Sri Lanka.</h3> 
+🎯 **Goal:** Creating innovative solutions through technologycenter"
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif"> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgvjwijesooriya&label=Profile%20views&color=0e75b6&style=flat" alt="kgvjwijesooriya" /> </p>
-
-- 🌱 I’m currently learning **Bachelor of Information and Communication Technology degree programme.**
-
-
-- 📫 How to reach me **vimukthi200020@gmail.com** -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayasanka.com-9cf?style=for-the-badge&logo=google-chrome&logoColor=black)](https://jayasanka.com)
 
 ## 🤝 Connect With Me
 
@@ -84,6 +76,8 @@
 
 ### 🐧 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 ---
