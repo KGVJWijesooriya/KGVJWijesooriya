@@ -19,16 +19,16 @@
 📧 **Contact:** vimukthi200020@gmail.com  
 💻 **Focus:** Mobile Application Development  
 🎯 **Goal:** Creating innovative solutions through technologycenter">Hi 👋, I'm Vimukthi Jayasanka Wijesooriya</h1>
-<h3 align="center">undergraduate Mobile App developer from Sri Lanka.</h3> 
+<!-- <h3 align="center">undergraduate Mobile App developer from Sri Lanka.</h3> 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kgvjwijesooriya&label=Profile%20views&color=0e75b6&style=flat" alt="kgvjwijesooriya" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgvjwijesooriya&label=Profile%20views&color=0e75b6&style=flat" alt="kgvjwijesooriya" /> </p>
 
 - 🌱 I’m currently learning **Bachelor of Information and Communication Technology degree programme.**
 
 
-- 📫 How to reach me **vimukthi200020@gmail.com**
+- 📫 How to reach me **vimukthi200020@gmail.com** -->
 
 ## 🤝 Connect With Me
 
